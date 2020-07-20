@@ -73,6 +73,7 @@ px      68    160    252    344    436    528    620    712    */
 --*/
   #slider-work .block h1 {
     font-size: 28px;
+    text-align: left;
   }
   #slider-work .block p {
     font-size: 15px;
