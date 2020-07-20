@@ -97,11 +97,11 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg_ot.jpg") no-repeat;
-  background-size: cover;
+  background: url("../img/slider-bg_ot2.jpg") no-repeat;
+  background-size: contain;
   background-attachment: fixed;
-  background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  background-position: 50% 64%;
+  padding: 200px 0px 280px 0;
   position: relative;
 }
 #slider:before {
@@ -126,6 +126,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 60px;
   letter-spacing: 12px;
   padding-bottom: 5px;
+  
 }
 #slider .block p {
   font-size: 20px;
