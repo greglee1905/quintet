@@ -843,37 +843,163 @@ footer .footer-manu ul li a:hover {
 
 .group_bio h1 {
   font-size: 35px;
+  padding-top: 40px;
+  padding-bottom: 20px;
 }
 
 .group_bio p {
   text-indent: 0%;
   font-size: 15px;
-  text-align: ;
+  text-align: justify;
+  padding-bottom: 40px;
 }
 
-.flute_block h {
-  font-size: 25px;
+.flute_block {
+  background-color:#e7e5e7 
+  
+}
+.flute_block h2 {
+  font-size: 30px;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
 }
 
 .flute_block p {
   text-indent: 0%;
   font-size: 15px;
+  padding-left: 100px;
+  padding-top: 0px;
+  text-align: justify;
+  line-height: 28px;
 }
 
 .flute_block img {
-  padding-left: 250px;
-  width: 90%;
+  width: 335px;
+  position: relative;
+  right: 0px;
+  left: 115px;
+  padding: 35px 0px 35px;
+  
 }
  
-.flute_block {
-  background: url("../img/call-to-action-bg.jpg") no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  padding: 70px 0px;
-  position: relative;
+.oboe_block {
+  background-color:#ffffff 
+  
+}
+.oboe_block h2 {
+  font-size: 30px;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
   text-align: center;
-  color: #fff;
 }
 
+.oboe_block p {
+  text-indent: 0%;
+  font-size: 15px;
+  padding-left: 100px;
+  padding-top: 0px;
+  text-align: justify;
+  line-height: 28px;
+}
 
+.oboe_block img {
+  width: 335px;
+  position: relative;
+  right: 0px;
+  left: 115px;
+  padding: 35px 0px 35px;
+  
+}
 
+.clarinet_block {
+  background-color:#e7e5e7 
+  
+}
+.clarinet_block h2 {
+  font-size: 30px;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.clarinet_block p {
+  text-indent: 0%;
+  font-size: 15px;
+  padding-left: 100px;
+  padding-top: 0px;
+  text-align: justify;
+  line-height: 28px;
+}
+
+.clarinet_block img {
+  width: 335px;
+  position: relative;
+  right: 0px;
+  left: 115px;
+  padding: 35px 0px 35px;
+  
+}
+
+.horn_block {
+  background-color:#ffffff 
+  
+}
+.horn_block h2 {
+  font-size: 30px;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.horn_block p {
+  text-indent: 0%;
+  font-size: 15px;
+  padding-left: 100px;
+  padding-top: 0px;
+  text-align: justify;
+  line-height: 28px;
+}
+
+.horn_block img {
+  width: 335px;
+  position: relative;
+  right: 0px;
+  left: 115px;
+  padding: 35px 0px 35px;
+  
+}
+
+.bassoon_block {
+  background-color:#e7e5e7 
+  
+}
+.bassoon_block h2 {
+  font-size: 30px;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.bassoon_block p {
+  text-indent: 0%;
+  font-size: 15px;
+  padding-left: 100px;
+  padding-top: 0px;
+  text-align: justify;
+  line-height: 28px;
+}
+
+.bassoon_block img {
+  width: 335px;
+  position: relative;
+  right: 0px;
+  left: 115px;
+  padding: 35px 0px 35px;
+  
+}
